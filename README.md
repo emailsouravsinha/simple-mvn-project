@@ -2,4 +2,4 @@
 
 ## A Maven Project used for Jenkins Training.
 
-Instructions to come soon.
+We are trying to change a file and see it building.
